@@ -1,5 +1,5 @@
 {
-  "name": "level-4",
+  "name": "wd-level-4",
   "version": "1.0.0",
   "description": "",
   "main": "todo.js",
@@ -7,7 +7,7 @@
     "test": "jest",
     "prepare": "husky install"
   },
-  "author": "Nehath <nehathvarma@gmail.com>",
+  "author": "nehath <nehathvarma@gmail.com>",
   "license": "ISC",
   "devDependencies": {
     "eslint": "^8.24.0",
